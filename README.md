@@ -6,4 +6,5 @@ Sample-Superstore.xlsx : The dataset used for this project.
 Superstor_Analysis_project.twbx: The Tableau Workbook containing the work done. 
 
 #Dashboard
+"C:\Users\utkar\OneDrive\Pictures\Screenshots\Screenshot 2024-12-01 190451.png"
 
